@@ -1,0 +1,24 @@
+C:\Users\37529\source\repos\Управление автопарком\Управление автопарком\obj\Debug\Управление автопарком.csproj.AssemblyReference.cache
+C:\Users\37529\source\repos\Управление автопарком\Управление автопарком\obj\Debug\Управление автопарком.csproj.CoreCompileInputs.cache
+C:\Users\37529\source\repos\Управление автопарком\Управление автопарком\bin\Debug\Управление автопарком.exe.config
+C:\Users\37529\source\repos\Управление автопарком\Управление автопарком\bin\Debug\Управление автопарком.exe
+C:\Users\37529\source\repos\Управление автопарком\Управление автопарком\bin\Debug\Управление автопарком.pdb
+C:\Users\37529\source\repos\Управление автопарком\Управление автопарком\bin\Debug\Bogus.dll
+C:\Users\37529\source\repos\Управление автопарком\Управление автопарком\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\37529\source\repos\Управление автопарком\Управление автопарком\bin\Debug\Bogus.xml
+C:\Users\37529\source\repos\Управление автопарком\Управление автопарком\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\37529\source\repos\Управление автопарком\Управление автопарком\obj\Debug\Управление автопарком.csproj.CopyComplete
+C:\Users\37529\source\repos\Управление автопарком\Управление автопарком\obj\Debug\Управление автопарком.exe
+C:\Users\37529\source\repos\Управление автопарком\Управление автопарком\obj\Debug\Управление автопарком.pdb
+C:\Users\37529\source\repos\Управление автопарком — копия\Управление автопарком\bin\Debug\Управление автопарком.exe.config
+C:\Users\37529\source\repos\Управление автопарком — копия\Управление автопарком\bin\Debug\Управление автопарком.exe
+C:\Users\37529\source\repos\Управление автопарком — копия\Управление автопарком\bin\Debug\Управление автопарком.pdb
+C:\Users\37529\source\repos\Управление автопарком — копия\Управление автопарком\bin\Debug\Bogus.dll
+C:\Users\37529\source\repos\Управление автопарком — копия\Управление автопарком\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\37529\source\repos\Управление автопарком — копия\Управление автопарком\bin\Debug\Bogus.xml
+C:\Users\37529\source\repos\Управление автопарком — копия\Управление автопарком\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\37529\source\repos\Управление автопарком — копия\Управление автопарком\obj\Debug\Управление автопарком.csproj.AssemblyReference.cache
+C:\Users\37529\source\repos\Управление автопарком — копия\Управление автопарком\obj\Debug\Управление автопарком.csproj.CoreCompileInputs.cache
+C:\Users\37529\source\repos\Управление автопарком — копия\Управление автопарком\obj\Debug\Управление автопарком.csproj.CopyComplete
+C:\Users\37529\source\repos\Управление автопарком — копия\Управление автопарком\obj\Debug\Управление автопарком.exe
+C:\Users\37529\source\repos\Управление автопарком — копия\Управление автопарком\obj\Debug\Управление автопарком.pdb
